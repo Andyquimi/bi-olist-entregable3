@@ -1,0 +1,22 @@
+ pedidos_staging | pedidos_en_hechos | pedidos_sin_items 
+-----------------+-------------------+-------------------
+           99092 |             98353 |               739
+(1 row)
+
+ order_status | pedidos_sin_items 
+--------------+-------------------
+ unavailable  |               602
+ canceled     |               132
+ created      |                 5
+(3 rows)
+
+ ingresos_brutos | ingresos_validos | excluidos_cancelados 
+-----------------+------------------+----------------------
+     13541712.78 |      13449529.68 |             92183.10
+(1 row)
+
+ desde_funcion | desde_hechos 
+---------------+--------------
+   13449529.68 |  13449529.68
+(1 row)
+
