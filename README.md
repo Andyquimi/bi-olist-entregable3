@@ -32,7 +32,7 @@ Conexión desde pgAdmin: host `localhost`, puerto `DB_PORT`, base `bi_database`,
 | `sql/05`, `07` | Vistas y funciones SQL (07 = funciones con filtros para Streamlit) |
 | `sql/06`, `09` | Pruebas de los objetos SQL |
 | `app/` | Aplicación Streamlit (3 páginas, 3 filtros, 6 gráficos, 3 tablas) |
-| `docs/` | Diagrama estrella, log de transformaciones, matriz de trazabilidad, plantilla de IA |
+| `docs/` | Diagrama estrella, log de transformaciones, matriz de trazabilidad, documento final |
 | `evidencias/` | Salidas del pipeline (se generan al ejecutar) |
 
 ## Resultados esperados (datos reales)
